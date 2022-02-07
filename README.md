@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suvartha Kavali</h1>
 <h3 align="center">A passionate Data Insighter</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suvartha-datainsighter" alt="suvartha-datainsighter" /></a> </p>
+<img align = "right" alt="suvartha-kavali-b8a694183" width = "400" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning, Data Science with python**
 
