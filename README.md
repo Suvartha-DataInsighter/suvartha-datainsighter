@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suvartha Kavali</h1>
 <h3 align="center">A Sage Data analyst</h3>
-<img align="right" width="350" src="https://cdn.dribbble.com/users/2103338/screenshots/7155620/media/059efaf01fe54b16cbf02593c3bfad37.gif">
+[<img align="right" width="350" src="https://cdn.dribbble.com/users/2103338/screenshots/7155620/media/059efaf01fe54b16cbf02593c3bfad37.gif">](https://github.com/Suvartha-DataInsighter)
 
 - 🔭 I’m currently working on **Machine Learning, Data Science with python and statistical analysis on data**
 
